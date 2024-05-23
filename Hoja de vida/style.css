@@ -1,0 +1,43 @@
+
+body{
+    background-image: url(https://i.pinimg.com/736x/77/42/0d/77420df3f9e33db5b79ee25455d3340e.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+.nav-bar{
+    text-align: center;
+    text-transform: uppercase;
+    list-style: none;
+
+}
+
+.nav-bar>ul{
+    display: flex;
+    justify-content: center;
+    color: white;
+    list-style: none;
+    margin: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{ 
+    color: grey;
+}
+
+.sobre-mi{
+    margin-top: 100px;
+    text-align: center;
+    color: white;
+}
+
+.img-yo{
+    text-align: center;
+    margin-bottom: 100px;
+    color: white;
+}
